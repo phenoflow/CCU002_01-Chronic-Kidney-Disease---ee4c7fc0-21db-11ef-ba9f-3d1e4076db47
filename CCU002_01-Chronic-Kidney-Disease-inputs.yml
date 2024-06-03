@@ -1,0 +1,195 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-ultrafiltration---primary.py
+inputModule3:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-proteinuria---primary.py
+inputModule4:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-stage---primary.py
+inputModule5:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-haemodialysis---primary.py
+inputModule6:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-hypertension---primary.py
+inputModule7:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-transplantation---primary.py
+inputModule8:
+  class: File
+  path: python/endocapillary-ccu002_01-chronic-kidney-disease-ckd---primary.py
+inputModule9:
+  class: File
+  path: python/nephritic-ccu002_01-chronic-kidney-disease-ckd---primary.py
+inputModule10:
+  class: File
+  path: python/membranous-ccu002_01-chronic-kidney-disease-ckd---primary.py
+inputModule11:
+  class: File
+  path: python/mesangial-ccu002_01-chronic-kidney-disease-ckd---primary.py
+inputModule12:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-aftercare---primary.py
+inputModule13:
+  class: File
+  path: python/renal-ccu002_01-chronic-kidney-disease-ckd---primary.py
+inputModule14:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-glomerulonephritis---primary.py
+inputModule15:
+  class: File
+  path: python/acute-ccu002_01-chronic-kidney-disease-ckd---primary.py
+inputModule16:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-dependence---primary.py
+inputModule17:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-specified---primary.py
+inputModule18:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-compensate---primary.py
+inputModule19:
+  class: File
+  path: python/extracorporeal-ccu002_01-chronic-kidney-disease-ckd---primary.py
+inputModule20:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-exploration---primary.py
+inputModule21:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-shunt---primary.py
+inputModule22:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-creation---primary.py
+inputModule23:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-haemofiltration---primary.py
+inputModule24:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-procedure---primary.py
+inputModule25:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-insertion---primary.py
+inputModule26:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-acquired---primary.py
+inputModule27:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-complication---primary.py
+inputModule28:
+  class: File
+  path: python/angioplasty-ccu002_01-chronic-kidney-disease-ckd---primary.py
+inputModule29:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-reaction---primary.py
+inputModule30:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-rupture---primary.py
+inputModule31:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-aluminiumrelated---primary.py
+inputModule32:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-occlusion---primary.py
+inputModule33:
+  class: File
+  path: python/intermittent-ccu002_01-chronic-kidney-disease-ckd---primary.py
+inputModule34:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-peritonitis---primary.py
+inputModule35:
+  class: File
+  path: python/venovenous-ccu002_01-chronic-kidney-disease-ckd---primary.py
+inputModule36:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-stenosis---primary.py
+inputModule37:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-access---primary.py
+inputModule38:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-associated---primary.py
+inputModule39:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-embolectomy---primary.py
+inputModule40:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-thrombolysis---primary.py
+inputModule41:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-perfusion---primary.py
+inputModule42:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-adjustment---primary.py
+inputModule43:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd---primary.py
+inputModule44:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-donor---primary.py
+inputModule45:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-microglobulin---primary.py
+inputModule46:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-aneurysm---primary.py
+inputModule47:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-placement---primary.py
+inputModule48:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-apparatus---primary.py
+inputModule49:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-graft---primary.py
+inputModule50:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-removal---primary.py
+inputModule51:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-haemorrhage---primary.py
+inputModule52:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-ambulatory---primary.py
+inputModule53:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-device---primary.py
+inputModule54:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-cutpunctureperfhge---primary.py
+inputModule55:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-dialysate---primary.py
+inputModule56:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-ligation---primary.py
+inputModule57:
+  class: File
+  path: python/stent-ccu002_01-chronic-kidney-disease-ckd---primary.py
+inputModule58:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-transplant---primary.py
+inputModule59:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-artery---primary.py
+inputModule60:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-fistula---primary.py
+inputModule61:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-dialysis---primary.py
+inputModule62:
+  class: File
+  path: python/other-ccu002_01-chronic-kidney-disease-ckd---primary.py
+inputModule63:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-precaution---primary.py
+inputModule64:
+  class: File
+  path: python/ccu002_01-chronic-kidney-disease-ckd-transplanted---primary.py
+inputModule65:
+  class: File
+  path: python/output-cases.py
